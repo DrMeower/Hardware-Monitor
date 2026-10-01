@@ -8,5 +8,7 @@ The program can monitor system sensors and list active processes. One thing to n
 # Planned Features
 
 Implement a UI.
+
 Extend list of sensors.
+
 Re-write some parts of the program cleaner.
